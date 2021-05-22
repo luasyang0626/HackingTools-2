@@ -134,6 +134,7 @@ A collection of awesome penetration testing resources
 * `docker pull remnux/metasploit` - [docker-metasploit](https://hub.docker.com/r/remnux/metasploit/)
 
 #### Vulnerability Scanners
+* [Acunetix](https://www.acunetix.com) - Web application vulnerability scanner
 * [Nexpose](https://www.rapid7.com/products/nexpose/) - Vulnerability Management & Risk Management Software
 * [Nessus](http://www.tenable.com/products/nessus-vulnerability-scanner) - Vulnerability, configuration, and compliance assessment
 * [Nikto](https://cirt.net/nikto2) - Web application vulnerability scanner
@@ -145,7 +146,7 @@ A collection of awesome penetration testing resources
 * [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG/BZR
 * [arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 * [Vuls](https://github.com/future-architect/vuls) - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go
-
+* 
 #### Network Tools
 * [zmap](https://zmap.io/) - Open-source network scanner that enables researchers to easily perform Internet-wide network studies
 * [nmap](https://nmap.org/) - Free Security Scanner For Network Exploration & Security Audits
